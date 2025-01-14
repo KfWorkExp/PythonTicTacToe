@@ -34,7 +34,7 @@ Note that 'forking' only copies the code and not the Wiki with the user stories 
 3) This opens up the source code in VS Code.
 4) Next go to Terminal -> New Terminal.
 5) In the terminal window type 'cd <path>' where path is the path to the top level folder you just opened (you can copy it from Windows Explorer)
-6) Type: 'python <file name>' and press return.
+6) Type: 'python [file name]' and press return.
 
 ### Step 4 - Push your changes into your repository
 
